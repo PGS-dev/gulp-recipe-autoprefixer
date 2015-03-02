@@ -1,0 +1,21 @@
+{
+  "name": "gulp-recipe-autoprefixer",
+  "version": "0.1.0",
+  "description": "Receipe for preprocessing css files with autoprefixer",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PGS-dev/gulp-recipe-autoprefixer.git"
+  },
+  "keywords": [
+    "PGS",
+    "gulp",
+    "gulp-receipe",
+    "browser-sync"
+  ],
+  "author": "PGS Front",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-autoprefixer": "^2.1.0"
+  }
+}
