@@ -11,7 +11,7 @@
     "PGS",
     "gulp",
     "gulp-receipe",
-    "browser-sync"
+    "autoprefixer"
   ],
   "author": "PGS Front",
   "license": "ISC",
