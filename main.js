@@ -20,6 +20,7 @@ module.exports = {
 
         conf.versions = conf.versions || ['> 1%', 'last 2 versions', 'Firefox ESR', 'Opera 12.1', 'ie 9'];
         config.autoprefixer = conf;
+        config.sources = undefined;
         return config;
     },
     recipe: function ($, config) {
