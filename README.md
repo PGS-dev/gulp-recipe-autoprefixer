@@ -1,10 +1,10 @@
-# [gulp-recipe](https://github.com/PGS-dev/gulp-recipe-loader)-autoprefixer [![Dependency Status][depstat-image]][depstat-url]
+# [gulp-recipe](https://github.com/PGSSoft/gulp-recipe-loader)-autoprefixer [![Dependency Status][depstat-image]][depstat-url]
 [![NPM][npm-image]][npm-url]
 
 Css transforming with autoprefixer.
 
 Connects to css transforming hooks.
-Works well with recipes like [gulp-recipe-sass](https://github.com/PGS-dev/gulp-recipe-sass) or [gulp-recipe-css](https://github.com/PGS-dev/gulp-recipe-css).
+Works well with recipes like [gulp-recipe-sass](https://github.com/PGSSoft/gulp-recipe-sass) or [gulp-recipe-css](https://github.com/PGSSoft/gulp-recipe-css).
 
 ## Configuration
 ### Recipe specific
@@ -46,5 +46,5 @@ Registers css autoprefixer processing for dist environment.
 [npm-url]: https://npmjs.org/package/gulp-recipe-autoprefixer
 [npm-image]: https://nodei.co/npm/gulp-recipe-autoprefixer.png?downloads=true
 
-[depstat-url]: https://david-dm.org/PGS-dev/gulp-recipe-autoprefixer
-[depstat-image]: http://img.shields.io/david/PGS-dev/gulp-recipe-autoprefixer.svg?style=flat
+[depstat-url]: https://david-dm.org/PGSSoft/gulp-recipe-autoprefixer
+[depstat-image]: http://img.shields.io/david/PGSSoft/gulp-recipe-autoprefixer.svg?style=flat
